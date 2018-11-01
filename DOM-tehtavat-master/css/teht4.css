@@ -1,0 +1,7 @@
+#asd{
+    list-style: none;
+}
+
+li:nth-child(even){
+    background-color: grey;
+}
